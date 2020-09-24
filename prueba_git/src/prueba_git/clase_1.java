@@ -6,11 +6,13 @@ public class clase_1 {
 		
 		int i;
 		int b;
-		int c;
+		
 		int d;
 		int e;
 		
 	/* esto es una prueba para ver el control de versiones */
+	/* recuerda que siempre hay que guardar primero antes de hacer el commit */ 
+		/**/
 		
 	}
 }
