@@ -6,6 +6,11 @@ public class clase_1 {
 		
 		int i;
 		int b;
+		int c;
+		int d;
+		int e;
+		
+	/* esto es una prueba para ver el control de versiones */
 		
 	}
 }
